@@ -1,0 +1,12 @@
+{
+  "name": "credit-card-view",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {},
+  "author": "Andrey Kostin [https://github.com/IDevFrye]",
+  "license": "MIT",
+  "dependencies": {
+    "redom": "^4.3.0"
+  }
+}
